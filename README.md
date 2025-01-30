@@ -5,7 +5,7 @@ A clock that has 12 LED's for hour and 12 LED's for minute.
 Potential expansion: add speakers/sound element for hour chime
 
 Parts:
-24 LED's
+24 LED's /n
 24 resistors*
 1 microcontroller ie MCU
 1 RTC (depending on MCU)
